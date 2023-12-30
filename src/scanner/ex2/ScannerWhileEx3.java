@@ -25,7 +25,7 @@ public class ScannerWhileEx3 {
 //            }
 //        }
 
-        int input = 0;이
+        int input = 0;
         int sum = 0;
         int cnt = 0;
 
